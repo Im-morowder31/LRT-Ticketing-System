@@ -1,0 +1,14 @@
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\bin\Debug\LRT Ticketing.exe.config
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\bin\Debug\LRT Ticketing.exe
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\bin\Debug\LRT Ticketing.pdb
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\bin\Debug\LRT Ticketing.xml
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.vbproj.AssemblyReference.cache
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT_Ticketing.Form1.resources
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT_Ticketing.Resources.resources
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.vbproj.GenerateResource.cache
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.vbproj.CoreCompileInputs.cache
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.exe
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.xml
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT Ticketing.pdb
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT_Ticketing.Form2.resources
+D:\User\Desktop\VB\LRT Ticketing\LRT Ticketing\obj\Debug\LRT_Ticketing.Form3.resources
